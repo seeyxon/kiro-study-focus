@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct StudyFocusApp: App {
+    @StateObject private var model = StudyFocusModel()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(model: model)
         }
     }
 }
