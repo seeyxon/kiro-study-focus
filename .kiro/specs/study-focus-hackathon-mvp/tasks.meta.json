@@ -1,0 +1,159 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Build the session model and persistence logic": [
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977718716
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977926136
+      }
+    ],
+    "1.1 Create the domain types, observable state, and pure calculations": [
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977718831
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977718879
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977725140
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977823541
+      }
+    ],
+    "1.2 Implement session transitions and UserDefaults persistence": [
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977718911
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977829871
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977926081
+      }
+    ],
+    "2.1 Replace the starter content with the Focus and completion flow": [
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977718945
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977931879
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794978086096
+      },
+      {
+        "executionId": "a98b97b0-fb43-4507-ad44-201342fef038",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794979818911
+      },
+      {
+        "executionId": "a98b97b0-fb43-4507-ad44-201342fef038",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794979940872
+      },
+      {
+        "executionId": "1488a987-c134-4341-9d12-df70bf5c08fd",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794980301810
+      },
+      {
+        "executionId": "1488a987-c134-4341-9d12-df70bf5c08fd",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794980485556
+      }
+    ],
+    "2.2 Add completed-focus statistics and coaching": [
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977718983
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794978091880
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794979767534
+      },
+      {
+        "executionId": "a98b97b0-fb43-4507-ad44-201342fef038",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794979944939
+      },
+      {
+        "executionId": "a98b97b0-fb43-4507-ad44-201342fef038",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794980061487
+      },
+      {
+        "executionId": "1488a987-c134-4341-9d12-df70bf5c08fd",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794980493187
+      },
+      {
+        "executionId": "1488a987-c134-4341-9d12-df70bf5c08fd",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794980660677
+      }
+    ],
+    "2.3 Wire the model into the app entry point and complete build integration": [
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794977719032
+      },
+      {
+        "executionId": "a0154350-ef34-4fec-921f-01a4302b12a9",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794979773905
+      },
+      {
+        "executionId": "2d3e280f-414c-4f11-8418-cb6856239232",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794980116452
+      },
+      {
+        "executionId": "2d3e280f-414c-4f11-8418-cb6856239232",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794980183052
+      }
+    ],
+    "2. Build the SwiftUI experience and connect shared state": [
+      {
+        "executionId": "1488a987-c134-4341-9d12-df70bf5c08fd",
+        "chatSessionId": "sess_93076848-9114-4446-bf4b-4dec441541c0",
+        "timestamp": 1794980660703
+      }
+    ]
+  }
+}
